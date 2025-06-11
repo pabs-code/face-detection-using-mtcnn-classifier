@@ -129,6 +129,8 @@ You can test the app by following these steps:
 4. Watch as the app detects faces in real-time!
 
 
+https://github.com/user-attachments/assets/f68a26a7-b080-45ee-93d0-3ca78c97c64a
+
 
 
 ---
